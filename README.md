@@ -5,7 +5,8 @@
 ## Начало работы
 
 1. Склонировать репозиторий:
-https://github.com/Ivansergee/rekruto-test.git
+
+git clone https://github.com/Ivansergee/rekruto-test.git
 
 2. Установить Flask:
 
@@ -17,7 +18,7 @@ cd rekruto-test
 
 3. Запустить приложение:
 
-python app.py
+python hello.py
 
 
 Это запустит сервер на http://127.0.0.1
